@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.9
-Release:          1
+Release:          2
 Summary:          regression subset selection
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
